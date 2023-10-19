@@ -5,5 +5,9 @@
 
 /* Your Awesome Styles */
 * {
-    outline: 10px dotted gray;
+    outline: 10px dotted rgb(235, 11, 11);
 }
+
+/*
+ALL OF MY CSS MUST GO IN THIS FILE, NOT STYLE.CSS.
+*/
